@@ -1,0 +1,15 @@
+.team-player-container{
+    border: 2px solid darkgray;
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.team-player-container img{
+    height: 150px;
+    width: 150px;
+    border-radius: 5px;
+}
+.player-info img{
+    width: 50px;
+    height: 50px;
+}
